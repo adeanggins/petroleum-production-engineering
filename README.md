@@ -26,9 +26,3 @@ Originally designed for Excel spreadsheets, these engineering workflows have bee
 ### Prerequisites
 * Python 3.8+
 * Jupyter Notebook
-
-### Installation
-```bash
-git clone [https://github.com/adeanggins/petroleum-production-engineering.git](https://github.com/adeanggins/petroleum-production-engineering.git)
-cd petroleum-production-engineering
-pip install -r requirements.txt
